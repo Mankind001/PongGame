@@ -1,17 +1,17 @@
-🏓 Pong Game – Turtle Edition
+# 🏓 Pong Game – Turtle Edition
 
 ![image alt](https://github.com/Mankind001/PongGame/blob/8146e93107a8ca5bc43c25d7ee0bf81fa816d5a1/Screenshot%202025-06-27%20at%2001.08.18.png)
 
 A classic Pong game clone built using Python’s built-in turtle graphics library.
 Designed primarily as a learning project to understand OOP, animation, and collision handling in Python.
 
-🧰 Built With
+## 🧰 Built With
 🐢 turtle – for rendering game graphics and animation
 
 🪟 tkinter.messagebox – for displaying game result popups
 
 
-🧩 Custom modules:
+## 🧩 Custom modules:
 
 Paddle – class for the paddle logic
 
@@ -20,7 +20,7 @@ Ball – class for ball movement and collision
 variables – central place for managing screen and boundary dimensions
 
 
-🎮 Gameplay
+## 🎮 Gameplay
 Two-player mode:
 
 Right Paddle (Red): Arrow Keys (↑ / ↓)
@@ -29,7 +29,7 @@ Left Paddle (Blue): W / S
 
 If a player misses the ball, the opponent wins and a popup shows the result.
 
-📦 File Structure
+## 📦 File Structure
 
 /pong-game/
 │
@@ -40,4 +40,4 @@ If a player misses the ball, the opponent wins and a popup shows the result.
 └── README.md
 
 
-🎓 - Made primarily for learning purposes and internal use
+> 🎓 - Made primarily for learning purposes and internal use
