@@ -1,5 +1,7 @@
 🏓 Pong Game – Turtle Edition
 
+![image alt](https://github.com/Mankind001/PongGame/blob/eb1273ad8078df9d9bd0ab85cfb5d9235694861b/Screenshot%202025-06-27%20at%2001.05.08.png)
+
 A classic Pong game clone built using Python’s built-in turtle graphics library.
 Designed primarily as a learning project to understand OOP, animation, and collision handling in Python.
 
