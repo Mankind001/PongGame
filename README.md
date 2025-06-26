@@ -31,7 +31,7 @@ If a player misses the ball, the opponent wins and a popup shows the result.
 
 /pong-game/
 │
-├── main.py              # Main game file (your script above)
+├── main.py              # Main game file
 ├── paddle.py            # Paddle class (handles movement and positioning)
 ├── ball.py              # Ball class (movement, collision)
 ├── variables.py         # Screen size and boundary setup
